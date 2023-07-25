@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; }
+
+div {
+  background-color: #d1d1d1;
+  padding: 20px; }
+  div h1 {
+    font-size: 46px; }
+    div h1 .punto {
+      color: #ff9100; }
