@@ -243,7 +243,7 @@ input[type="submit"] {
 footer {
   margin-top: 100px;
   background-color: #dddaca;
-  padding: 150px;
+  padding: 75px;
   display: flex;
   justify-content: space-between;
   align-items: center;
